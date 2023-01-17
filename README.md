@@ -8,9 +8,13 @@ Data was imported from a CSV into a Pandas dataframe and EDA was conducted to fi
 The categorical data was encoded using Sklearn's LabelEncoder and a test train split was used to split the data into training and testing sets.
 
 The following Regression models were then used:
+
 -Simple Linear regression
+
 -Polynomial Regression (optimised using Kfolds with 10 splits)
+
 -LASSO Regression
+
 -Polynomial Ridge Regression
 
 The models were assessed using RMSE and r^2 accuracy measurements.
