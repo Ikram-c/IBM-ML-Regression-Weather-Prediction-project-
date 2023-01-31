@@ -16,3 +16,6 @@ The following Regression models were then used:
 
 The models were assessed using RMSE and r^2 accuracy measurements.
 
+![Regression plot of weather](https://user-images.githubusercontent.com/68299933/215764240-a61e96c5-fcba-406f-9ab9-ae86e175e4df.jpg)
+
+(Sample of regression plot)
