@@ -9,13 +9,10 @@ The categorical data was encoded using Sklearn's LabelEncoder and a test train s
 
 The following Regression models were then used:
 
--Simple Linear regression
-
--Polynomial Regression (optimised using Kfolds with 10 splits)
-
--LASSO Regression
-
--Polynomial Ridge Regression
+- Simple Linear regression
+- Polynomial Regression (optimised using Kfolds with 10 splits)
+- LASSO Regression
+- Polynomial Ridge Regression
 
 The models were assessed using RMSE and r^2 accuracy measurements.
 
